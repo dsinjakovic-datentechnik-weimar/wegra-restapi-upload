@@ -1,0 +1,25 @@
+{
+    "info":{
+	    "folder_path":"C:\\Users\\Dorijan\\Desktop\\bearbeitet\\_test",
+        "backup_path":"C:\\Users\\Dorijan\\Desktop\\bearbeitet\\_dtw_backup",
+        "process_path":"C:\\Users\\Dorijan\\Desktop\\bearbeitet\\_zu_bearbieten",
+        "error_path":"C:\\Users\\Dorijan\\Desktop\\bearbeitet\\_Fehler"
+    },
+    "restapi":{
+	    "company_url":"datentechnik-weimar-gmbh.docuware.cloud",
+        "file_cabinet_guid":"1d61fc8b-d536-4f88-be20-264e99fe418f",
+        "username":"Dodo",
+        "password":"D0r1j@nsd0cuw@re5484",
+        "cert_file":"",
+        "organization":"Datentechnik-Weimar GmbH"
+    },
+    "logs":{
+	    "log_level":"DEBUG"
+    },
+    "debug":{
+        "chunk_size":10240,
+        "temp_solution":1,
+        "fiddler":0,
+        "cert_file_fiddler":"C:\\DTW\\xml2dwctrl\\bin\\cert\\fiddler.crt"
+    }
+}
