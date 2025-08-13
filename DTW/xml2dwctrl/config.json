@@ -21,5 +21,10 @@
         "temp_solution":1,
         "fiddler":0,
         "cert_file_fiddler":"C:\\DTW\\xml2dwctrl\\bin\\cert\\fiddler.crt"
+    },
+     "token": {
+        "token_endpoint": "https://datentechnik-weimar-gmbh.docuware.cloud/docuware/platform/Account/Logon",
+        "token_file": "auth_token.json",
+        "temp_path": "C:\\DTW\\temp"
     }
 }
