@@ -1,0 +1,25 @@
+{
+    "info":{
+	    "folder_path":"\\\\WEGRAPDS\\PDS_export_DMS",
+        "backup_path":"\\\\wegrapds\\PDS_export_DMS\\Backup_neu",
+        "process_path":"C:\\DTW\\_zu_bearbieten",
+        "error_path":"\\\\wegrapds\\PDS_export_DMS\\Failed"
+    },
+    "restapi":{
+	    "company_url":"wegradms1",
+        "file_cabinet_guid":"54794a80-ced6-4067-ba45-7286dd529d6e",
+        "username":"admin",
+        "password":"Easy_11!", 
+        "cert_file":"C:\\DTW\\xml2dwctrl\\bin\\cert\\WEGRADMS1.crt",
+        "organization":"Wegra Anlagenbau GmbH Westenfeld"
+    },
+    "logs":{
+	    "log_level":"INFO"
+    },
+	"debug":{
+        "chunk_size":10240,
+        "temp_solution":0,
+        "fiddler":0,
+        "cert_file_fiddler":"C:\\DTW\\xml2dwctrl\\bin\\cert\\fiddler.crt"
+    }
+}
